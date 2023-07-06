@@ -41,7 +41,7 @@ We propose the following timeline for completing our project:
 2. Assemble the hardware components and start coding the software.
 3. Complete coding, test individual components, and integrate them into the system.
 
-##### Week 2:
+###### Week 2:
 
 1. Test the complete system, perform improvements, and document the project.
 2. Finalize the project report, create the video presentation, and prepare for final submission.
