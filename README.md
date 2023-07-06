@@ -30,6 +30,7 @@
 5. Video Presentation: We will create a short video presentation showcasing our working prototype, demonstrating the rotation of the radar system, object detection, and the activation of alert indicators. The video will also include an overview of the project and its key features.
 
 <hr/>
+
 ##### Timeline:
 
 We propose the following timeline for completing our project:
