@@ -1,18 +1,13 @@
-# team-project
+### Final Project: Ultrasonic Radar System with Alert Indicators
 
-Final Team Project for Mission College CIS 033 Summer 2023
+- Mission College
+- CIS-033-53082 Summer 2023
 
-Mission College
-CIS-033-53082 Summer 2023
-Final Project: Ultrasonic Radar System with Alert Indicators
+##### Team Members: Will Wang
 
-Team Members:
+##### Project Idea:
 
-Will Wang
-
-### Project Idea:
-
-- My proposed project is to build an ultrasonic radar system with a servo motor and various alert indicators. The system will detect objects within a specified range and provide both visual and audible warnings. We aim to create a functional prototype with the following features:
+##### The proposed project is to build an ultrasonic radar system with a servo motor and various alert indicators. The system will detect objects within a specified range and provide both visual and audible warnings. We aim to create a functional prototype with the following features:
 
 1. Servo Motor: We will connect a servo motor to the radar system, enabling it to rotate 360 degrees. This rotation will allow for complete coverage and object detection in all directions.
 
@@ -20,8 +15,9 @@ Will Wang
 
 3. Object Detection and Alert System: Using an ultrasonic sensor, we will measure the distance to objects within the set range. If an object is detected, we will trigger an alarm, blink LED lights (preferably red and blue), and display warning messages on an LCD screen. The LED lights will serve as visual indicators, while the alarm and LCD display will provide both audible and visual warnings.
 
-- Project Deliverables:
-  My project will involve the following deliverables:
+##### Project Deliverables:
+
+##### This project will involve the following deliverables:
 
 1. Hardware Assembly: We will design and assemble the required hardware components, including the Arduino board, ultrasonic sensor, servo motor, switch, LED lights, buzzer, and LCD display.
 
@@ -33,20 +29,20 @@ Will Wang
 
 5. Video Presentation: We will create a short video presentation showcasing our working prototype, demonstrating the rotation of the radar system, object detection, and the activation of alert indicators. The video will also include an overview of the project and its key features.
 
-## Timeline:
+<hr/>
+##### Timeline:
 
 We propose the following timeline for completing our project:
-<br/>
 
-### Week 1:
+###### Week 1:
 
 1. Research and gather necessary components, finalize hardware and software design.
 2. Assemble the hardware components and start coding the software.
 3. Complete coding, test individual components, and integrate them into the system.
 
-### Week 2:
+##### Week 2:
 
 1. Test the complete system, perform improvements, and document the project.
 2. Finalize the project report, create the video presentation, and prepare for final submission.
 
-- I believe that this project will provide us with valuable hands-on experience in hardware integration, programming, and problem-solving. It aligns with our interest in exploring practical applications of ultrasonic sensors and Arduino-based systems.
+##### I believe that this project will provide us with valuable hands-on experience in hardware integration, programming, and problem-solving. It aligns with our interest in exploring practical applications of ultrasonic sensors and Arduino-based systems.
