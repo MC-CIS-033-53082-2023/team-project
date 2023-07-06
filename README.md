@@ -46,4 +46,4 @@ We propose the following timeline for completing our project:
 1. Test the complete system, perform improvements, and document the project.
 2. Finalize the project report, create the video presentation, and prepare for final submission.
 
-##### I believe that this project will provide us with valuable hands-on experience in hardware integration, programming, and problem-solving. It aligns with our interest in exploring practical applications of ultrasonic sensors and Arduino-based systems.
+##### This project will provide us with valuable hands-on experience in hardware integration, programming, and problem-solving. It aligns with our interest in exploring practical applications of ultrasonic sensors and Arduino-based systems.
