@@ -10,7 +10,8 @@ Solution: Our solution is an Arduino-based Ultrasonic Radar System, which uses a
 > 2. Hardware Diagram: 
   > ![SonarRadarSecuritySys](https://github.com/MC-CIS-033-53082-2023/ultrasonic-radar/assets/39641108/b2ed19a7-6077-460f-83ee-86a3d0a719c4)
 > 4. Software Flow: Our Arduino code initializes the hardware components and continuously monitors for the presence of objects within a user-specified range. If an object is detected within this range, the system activates the RGB LED and the buzzer to provide alerts.
-> 5. Code Explanation: Our Arduino code uses several key functions to implement the required features of the system. For instance, the run_radar() function is the main function which controls the radar operation. Other functions like warning_blink() and sonar_detect() manage the alert system and object distance detection, respectively.
+  >  ![Software Flow](https://github.com/MC-CIS-033-53082-2023/ultrasonic-radar/assets/39641108/24115ca3-6ec9-43a6-acc2-7a4428c17caf)
+> 6. Code Explanation: Our Arduino code uses several key functions to implement the required features of the system. For instance, the run_radar() function is the main function which controls the radar operation. Other functions like warning_blink() and sonar_detect() manage the alert system and object distance detection, respectively.
 
 - Results:
 
